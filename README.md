@@ -1,5 +1,4 @@
 # CS201project
-Prashant Kumar
 
 General instruction
 ------------------------

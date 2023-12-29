@@ -6,6 +6,8 @@ Kartikey Sahu          2022csb1087
 
 Mentor Name: - Soumya Sarkar 
 Project Name:- Implementation of Fusion Tree in C++
+![image](https://github.com/pranavbhole123/CS201project/assets/120297405/003ab476-448e-45e9-a4bb-5c836d980ab6)
+
 
 ## Summary ##
 

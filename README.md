@@ -6,8 +6,36 @@ Kartikey Sahu       2022csb1087<br>
 
 Mentor Name: - Soumya Sarkar <br>
 Project Name:- Implementation of Fusion Tree in C++ <br>
+
 ![image](https://github.com/pranavbhole123/CS201project/assets/120297405/003ab476-448e-45e9-a4bb-5c836d980ab6)
 
+
+General instruction
+------------------------
+
+How to compile and run the code
+
+(1) check that package is install in linux or other device
+(2) gcc file_name.c for compile
+(3) ./a.out for run the code
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+When we compile and run the code in ```fusiontree.cpp``` 
+we should obtain the following output:
+
+```
+Application of Fusion Tree
+(1) Fusion Tree size: 5
+(2) After Sorting : 1 4 9 16 25 
+(3) Queried elements:
+predecessor of 3: 1
+predecessor of 16: 16
+predecessor of 0: -1
+successor of 0: 1
+successor of 10: 16
+```
 
 ## Summary ## <br>
 

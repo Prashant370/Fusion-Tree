@@ -4,12 +4,12 @@ Prashant Kumar      2022csb1202<br>
 Pranav Bhole        2022csb1103<br>
 Kartikey Sahu       2022csb1087<br>
 
-Mentor Name: - Soumya Sarkar 
-Project Name:- Implementation of Fusion Tree in C++
+Mentor Name: - Soumya Sarkar <br>
+Project Name:- Implementation of Fusion Tree in C++ <br>
 ![image](https://github.com/pranavbhole123/CS201project/assets/120297405/003ab476-448e-45e9-a4bb-5c836d980ab6)
 
 
-## Summary ##
+## Summary ## <br>
 
 A Fusion Trees is a static Data Structure that allows for predecessor queries in constant
 time on a set of constant size of numbers, but that requires significant large word sizes
@@ -20,9 +20,9 @@ size so we are implementing only for w=32 . as we are implementing in c++ if one
 implement in python or similar programming language it can go upto a certain significant
 size but beyond that its depend on machine .
 
-Challenges
+Challenges <br>
 
-(1) Large Integer Sizes
+(1) Large Integer Sizes <br>
 
 Implementing data structures like Fusion Trees in languages with large integer sizes
 (e.g., python) is generally straightforward, but it can become challenging when

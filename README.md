@@ -4,7 +4,8 @@ Prashant Kumar      2022csb1202<br>
 Pranav Bhole        2022csb1103<br>
 Kartikey Sahu       2022csb1087<br>
 
-Mentor Name: - Soumya Sarkar <br>
+Instructor : Dr. Anil Shukla || Mentor : Soumya Sarkar  <br>
+
 Project Name:- Implementation of Fusion Tree in C++ <br>
 
 ![image](https://github.com/pranavbhole123/CS201project/assets/120297405/003ab476-448e-45e9-a4bb-5c836d980ab6)

@@ -13,11 +13,11 @@ Project Name:- Implementation of Fusion Tree in C++ <br>
 General instruction
 ------------------------
 
-How to compile and run the code
+How to compile and run the code  <br>
 
-(1) check that package is install in linux or other device
-(2) gcc file_name.c for compile
-(3) ./a.out for run the code
+(1) check that package is install in linux or other device <br>
+(2) gcc file_name.c for compile  <br>
+(3) ./a.out for run the code  <br>
 
 ---------------------------------------------------------------
 
